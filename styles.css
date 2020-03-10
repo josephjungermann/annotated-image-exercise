@@ -113,6 +113,56 @@ img {
     opacity: 1;
 }
 
+.dot.orange {
+    background-color: rgba(255, 133, 25, 0.80);
+}
+
+.dot.blue {
+    background-color: rgba(0, 93, 255, 0.80);
+}
+
+.dot.green {
+    background-color: rgba(12, 232, 196, 0.80);
+}
+
+.dot.red {
+    background-color: rgba(150, 40, 27, 0.80);
+}
+
+.dot.purple {
+    background-color: rgba(103, 65, 114, 0.80);
+}
+
+.dot.orange.sign {
+    left: 50%;
+    bottom: 83%;
+    transform: translate(-50%, 83%);
+}
+
+.dot.blue.front {
+    left: 77%;
+    bottom: 65%;
+    transform: translate(-77%, 65%);
+}
+
+.dot.green.bank {
+    left: 89%;
+    bottom: 42%;
+    transform: translate(-89%, 42%);
+}
+
+.dot.red.pavement {
+    left: 56%;
+    bottom: 9%;
+    transform: translate(-56%, 9%);
+}
+
+.dot.purple.door {
+    left: 15%;
+    bottom: 29%;
+    transform: translate(-15%, 29%);
+}
+
 /*********************************************************************
   YOUR TABLET/DESKTOP STYLES GO HERE
 *********************************************************************/
